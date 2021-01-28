@@ -1626,19 +1626,19 @@
                 {
                  "animation":[
                         {
-                         "duration":100,
+                         "duration":150,
                          "tileid":196
                         }, 
                         {
-                         "duration":100,
+                         "duration":150,
                          "tileid":204
                         }, 
                         {
-                         "duration":100,
+                         "duration":150,
                          "tileid":212
                         }, 
                         {
-                         "duration":100,
+                         "duration":150,
                          "tileid":220
                         }],
                  "id":196
